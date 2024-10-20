@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^11.2.1",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "quick.db": "^9.1.7"
+  },
+  "name": "roblox-sniper-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@one.carabax",
+  "license": "ISC",
+  "description": ""
+}
